@@ -1,0 +1,25 @@
+h1{color: black;
+    text-align: center;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+  border-bottom: 1px solid;
+    border-bottom-color: rgb(23, 193, 250);
+  line-height:  1px;
+  margin-bottom: 1px;
+  margin-top:  10px; ;
+  }
+   
+
+
+h2,h3,h4{ color: brown;
+
+}
+.container {
+    text-align: center; 
+  }
+  
+  .container img {
+    display: block; 
+    margin: 0 auto; 
+  }
+  
+  
